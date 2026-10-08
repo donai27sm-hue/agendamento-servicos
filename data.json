@@ -1,0 +1,30 @@
+{
+  "nome": "DSM SPORTINGS(a) Material Esportivo em Geral",
+  "descricao": "Meias Antiderrapantes, Meiões Canelitos, Conjuntos de Compressão, Pernito de Compressão com Proteção, Uniformes Esportivos Silva Sports",
+  "foto_perfil": "imagens/foto_perfil.jpeg",
+  "whatsapp": "5531983035558",
+  "sobre": "Texto apresentando o profissional ou negócio, sua experiência e forma de atendimento.",
+  "localizacao": "Endereço ou informação sobre onde o atendimento acontece.",
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Meia Antiderrapante",
+      "preco": "R$ 25,00"
+    },
+    {
+      "id": 2,
+      "nome": "Conjunto de Compressão",
+      "preco": "R$ 95,00"
+    },
+    {
+      "id": 3,
+      "nome": "Meião Canelito",
+      "preco": "R$ 25,00"
+    },
+    {
+      "id": 4,
+      "nome": "Pernito de Compressão com Proteção",
+      "preco": "R$ 85,00"
+    }
+  ]
+}
